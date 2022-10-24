@@ -7,7 +7,7 @@
 
 
 - 👀 I’m interested in learning technical stuffs and building real-world applications...
-- 🌱 I’m currently learning Full Stck Debloper
+- 🌱 I’m currently learning full stack developer
 - 👯 I’m looking to collaborate on Open Source Projects...
 - 🔭 I’m currently working on JavaScript
 - 💬 Ask me about DSA||JavaScript||HTML||CSS
