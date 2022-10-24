@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi ### Hi there 👋, I'm Vicky Sarkar</h1>
+<h1 align="center">Hi  Hi there 👋, I'm Vicky Sarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="vicky-sarkar" /> </p>
