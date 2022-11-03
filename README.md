@@ -12,7 +12,6 @@
 - 🔭 I’m currently working on JavaScript
 - 💬 Ask me about DSA||JavaScript||HTML||CSS
 - 📫 Reach me: vickyysarkar@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact C and Java is good, Python is better but JavaScript is the Best.
 
 
