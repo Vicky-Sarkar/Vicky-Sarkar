@@ -3,7 +3,7 @@
 <!-- **Vicky-Sarkar/Vicky-Sarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-<h1 align="center"> Hi there 👋, I'm Vicky Sarkar</h1>  
+<h1 align="center"> Hi there 👋, I'm Vicky Sarkar</h1>                                <img align="end" src="drawing.jpg" alt="drawing" style="width:200px;"/>
 
 - 👀 I’m interested in learning technical stuffs and building real-world applications...  
 - 🌱 I’m currently learning full stack developer
