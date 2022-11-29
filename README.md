@@ -4,7 +4,7 @@
 
 
 <h1 align="center"> Hi there 👋, I'm Vicky Sarkar</h1>             
-                                                                                                           <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="drawing" style="width:400px;float: right"/>
+                                                                                                           <img src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="drawing" style="width:400px;float: left"/>
 
 - 👀 I’m interested in learning technical stuffs and building real-world applications...  
 - 🌱 I’m currently learning full stack developer
