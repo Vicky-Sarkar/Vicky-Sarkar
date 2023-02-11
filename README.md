@@ -4,7 +4,7 @@
 
 
 <h1 align="center"> Hi there 👋, I'm Vicky Sarkar</h1>             
-                                                                                           <img    align="right"  src="" alt="drawing" style="width:400px"/>
+<!--                                                                                            <img    align="right"  src="" alt="drawing" style="width:400px"/> -->
 
 - 👀 I’m interested in learning technical stuffs and building real-world applications...  
 - 🌱 I’m currently learning full stack developer
