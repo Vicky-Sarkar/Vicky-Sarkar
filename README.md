@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in learning technical stuffs and building real-world applications...  
 - 🌱 I’m currently learning full stack developer
-- 👯 I’m looking to work as Full Stack Web Developer
+- 👯 I’m looking to work as full stack web developer
 - 🔭 I’m currently working on JavaScript
 - 💬 Ask me about DSA||JavaScript||HTML||CSS
 - 📫 Reach me: vickyysarkar@gmail.com
