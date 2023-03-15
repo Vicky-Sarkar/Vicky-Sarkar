@@ -16,6 +16,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="vicky-sarkar" /> </p>
 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+
 <p align="left"> <a href="https://github.com/Vicky-Sarkar?tab=followers"><img src="https://github-profile-trophy.vercel.app/?username=vicky-sarkar" alt="vicky-sarkar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
