@@ -7,10 +7,10 @@
 <!--                                                                                            <img    align="right"  src="" alt="drawing" style="width:400px"/> -->
 
 - 👀 I’m interested in learning technical stuffs and building real-world applications...  
-- 🌱 I’m currently learning full stack developer
-- 👯 I’m looking to work as full stack web developer
+- 🌱 I’m currently learning full-stack developer
+- 👯 I’m looking to work as a full-stack web developer
 - 🔭 I’m currently working on React
-- 💬 Ask me about DSA||JavaScript||HTML||CSS
+- 💬 Ask me about DSA||JavaScript||HTML||CSS||Python
 - 📫 Reach me: vickyysarkar@gmail.com
 - ⚡ Fun fact C and Java is good, Python is better but JavaScript is the Best.
 
